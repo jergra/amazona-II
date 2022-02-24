@@ -31,16 +31,7 @@ There are issues with cookies that cause the site to malfunction.
 The site can be returned to normal function by deleting the cookies
 at Web Developer Tools -> Storage
 
-current working logins in the online DB:
-    admin@exammple.com
-    123456
-
-    user@example.com
-    123456
-
-    fred@example.com
-    123456
-
-    mock buyer email & password in .env file
+current working logins in the online DB, and mock buyer email & password, 
+are in the .env file
 
 
